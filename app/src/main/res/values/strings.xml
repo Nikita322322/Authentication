@@ -3,4 +3,6 @@
     <string name="logIn">logIn</string>
     <string name="logOut">logOut</string>
     <string name="accountName">accountName</string>
+    <string name="out">OuT</string>
+    <string name="info">info</string>
 </resources>

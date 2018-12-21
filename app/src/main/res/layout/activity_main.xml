@@ -11,7 +11,8 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:text="OuT"
+            android:layout_marginBottom="8dp"
+            android:text="@string/out"
             android:textColor="@color/black" />
 
         <Button
@@ -20,7 +21,8 @@
             android:layout_height="wrap_content"
             android:layout_above="@+id/logOutButton"
             android:layout_centerHorizontal="true"
-            android:text="info"
+            android:layout_marginBottom="8dp"
+            android:text="@string/info"
             android:textColor="@color/black" />
 
         <TextView
@@ -29,7 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:text="TextView"
+            android:padding="8dp"
             android:textColor="@color/black" />
     </RelativeLayout>
 </layout>
